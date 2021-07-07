@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  background-color: Blue;
+  color: Red;
+}
+img{
+  width: 300px;
+  height: 200px;
+}
+
+ul{
+  list-style: none;
+  font-size: 20px;
+}
+
+li{
+  display: inline;
+}
+
+#img{
+    width: 200px;
+    height: 200px;
+}
